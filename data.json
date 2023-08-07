@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2",
+    "date": "August 1, 2023",
+    "title": "Buy a Present",
+    "category": "task",
+    "content": "for Nadia Birthday 9/1/2023",
+    "isArchived": true
+  },
+  {
+    "id": "3",
+    "date": "August 1, 2023",
+    "title": "Call Mom",
+    "category": "task",
+    "content": "Do not forget!",
+    "isArchived": false
+  },
+  {
+    "id": "4",
+    "date": "July 31, 2023",
+    "title": "Feed the Cat",
+    "category": "task",
+    "content": "Barsik wants to eat!",
+    "isArchived": false
+  },
+  {
+    "id": "5",
+    "date": "August 1, 2023",
+    "title": "Make App",
+    "category": "task",
+    "content": "React-redux",
+    "isArchived": true
+  },
+  {
+    "id": "6",
+    "date": "August 1, 2023",
+    "title": "Banana?",
+    "category": "random thoughts",
+    "content": "Why not?",
+    "isArchived": false
+  }
+]
